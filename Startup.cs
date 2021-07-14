@@ -25,7 +25,7 @@ namespace DIS_Group4
         {
             services.AddRazorPages().AddRazorRuntimeCompilation();
             services.AddControllersWithViews();
-            services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DIS_Group10Context")));
+            services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DIS_Group4Context")));
             services.AddDatabaseDeveloperPageExceptionFilter();
             services.AddRazorPages()
                 .AddMvcOptions(options =>
