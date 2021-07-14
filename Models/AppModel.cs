@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace DIS_Group10.Models
+namespace DIS_Group4.Models
 {
     public class Park
     {

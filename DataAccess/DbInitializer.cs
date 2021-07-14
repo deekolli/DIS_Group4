@@ -1,5 +1,5 @@
-﻿using DIS_Group10.DataAccess;
-using DIS_Group10.Models;
+﻿using DIS_Group4.DataAccess;
+using DIS_Group4.Models;
 using Microsoft.EntityFrameworkCore;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
@@ -9,7 +9,7 @@ using System.Linq;
 using System.Net.Http;
 using System.Threading.Tasks;
 
-namespace DIS_Group10.DataAccess
+namespace DIS_Group4.DataAccess
 {
     public static class DbInitializer
     {

@@ -1,11 +1,11 @@
 ﻿using System;
 using Microsoft.EntityFrameworkCore;
-using DIS_Group10.Models;
+using DIS_Group4.Models;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace DIS_Group10.DataAccess
+namespace DIS_Group4.DataAccess
 {
     public class ApplicationDbContext : DbContext
     {

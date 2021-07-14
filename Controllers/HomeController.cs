@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using DIS_Group10.Models;
-using DIS_Group10.DataAccess;
-using Activity = DIS_Group10.Models.Activity;
+using DIS_Group4.Models;
+using DIS_Group4.DataAccess;
+using Activity = DIS_Group4.Models.Activity;
 
 namespace DIS_Group10.Controllers
 {

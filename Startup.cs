@@ -8,9 +8,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using DIS_Group10.DataAccess;
+using DIS_Group4.DataAccess;
 
-namespace DIS_Group10
+namespace DIS_Group4
 {
     public class Startup
     {

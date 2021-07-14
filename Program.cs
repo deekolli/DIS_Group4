@@ -1,4 +1,4 @@
-using DIS_Group10.DataAccess;
+using DIS_Group4.DataAccess;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -9,7 +9,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace DIS_Group10
+namespace DIS_Group4
 {
     public class Program
     {
