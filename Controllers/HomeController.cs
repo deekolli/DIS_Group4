@@ -81,7 +81,12 @@ namespace DIS_Group10.Controllers
             return View();
         }
 
-//CRUD - Create Starts
+        public IActionResult Explore()
+        {
+            return View();
+        }
+
+        //CRUD - Create Starts
 
         public async Task<IActionResult> Create()
         {
